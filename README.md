@@ -1,3 +1,3 @@
 # todolist-python
 
-under development
+belajar membuat todolist dengan python3

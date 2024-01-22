@@ -11,5 +11,6 @@ class TodolistRepository(ABC):
     def add(todolist: Todolist) -> None:
         pass
 
+    @abstractmethod
     def remove(number: int) -> bool:
         pass
